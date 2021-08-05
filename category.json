@@ -1,0 +1,22 @@
+[
+    {
+        "id":1,
+        "category":"Causal_Shoes"
+    },
+    {
+        "id":2,
+        "category":"Formal_Shoes"
+    },
+    {
+        "id":3,
+        "category":"Sports_Shoes"
+    },
+    {
+        "id":4,
+        "category":"Boots"
+    },
+    {
+        "id":5,
+        "category":"Flats"
+    }
+]

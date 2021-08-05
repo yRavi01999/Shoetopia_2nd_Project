@@ -1,0 +1,651 @@
+[
+    {
+        "id": 1,
+        "name": "Nike Air Force 1 '07 LV8",
+        "category": "Causal_Shoes",
+        "category_id": 1,
+        "rating": 4.5,
+        "price": 8295,
+        "image": "https://i.ibb.co/tCPksKX/air-force-lv8-shoe.jpg",
+        "size": 7,
+        "color": "white",
+        "brand": "Nike"
+    },
+
+    {
+        "id": 2,
+        "name": "Nike Air Force 1 '07",
+        "category": "Causal_Shoes",
+        "category_id": 1,
+        "rating": 4.5,
+        "price": 7395,
+        "image": "https://i.ibb.co/DK8LBSd/air-force-1-07-shoe-black.jpg",
+        "size": 6,
+        "color": "black",
+        "brand": "Nike"
+    },
+
+    {
+        "id": 3,
+        "name": "Dunk High 1985 x UNDERCOVER",
+        "category": "Causal_Shoes",
+        "category_id": 1,
+        "rating": 4.5,
+        "price": 13459,
+        "image": "https://i.ibb.co/5Bd3KnK/dunk-high-1985-undercover-shoes.jpg",
+        "size": 5,
+        "color": "gym_red",
+        "brand": "Nike_Jordans"
+    },
+
+    {
+        "id": 4,
+        "name": "Dunk High x AMBUSH",
+        "category": "Causal_Shoes",
+        "category_id": 1,
+        "rating": 5,
+        "price": 15995,
+        "image": "https://i.ibb.co/P6JFCtJ/ambush-dunk-high-shoes.jpg",
+        "size": 4,
+        "color": "Flash_Lime",
+        "brand": "Nike_x_Ambush"
+    },
+
+    {
+        "id": 5,
+        "name": "Nike Air Force 1 High",
+        "category": "Causal_Shoes",
+        "category_id": 1,
+        "rating": 4.5,
+        "price": 9995,
+        "image": "https://i.ibb.co/J5XWwnr/custom-nike-air-force-1-high-by-you-blue.jpg",
+        "size": 8,
+        "color": "blue",
+        "brand": "Nike_Jordans"
+    },
+
+    {
+        "id": 6,
+        "name": "Nike Air Force 1 '07 LV8",
+        "category": "Causal_Shoes",
+        "category_id": 1,
+        "rating": 4.5,
+        "price": 8295,
+        "image": "https://i.ibb.co/NYHw46X/air-force-1-07-lv8-shoe-27-Bnvv.jpg",
+        "size": 7,
+        "color": "light_stone",
+        "brand": "Nike"
+    },
+
+    {
+        "id": 7,
+        "name": "Nike Air Zoom-Type Premium",
+        "category": "Causal_Shoes",
+        "category_id": 1,
+        "rating": 4.5,
+        "price": 13495,
+        "image": "https://i.ibb.co/0m5JbzG/air-zoom-type-shoes-w-Dkp-Jf.jpg",
+        "size": 11,
+        "color": "Coconut_Milk",
+        "brand": "Nike"
+    },
+
+    {
+        "id": 8,
+        "name": "Air Zoom Tempo NEXT% x Off-White™ Pink Glow",
+        "category": "Causal_Shoes",
+        "category_id": 1,
+        "rating": 4.5,
+        "price": 21795,
+        "image": "https://i.ibb.co/qxmRNbm/off-white-air-zoom-tempo-next-shoes.jpg",
+        "size": 8,
+        "color": "pink",
+        "brand": "Nike"
+    },
+
+    {
+        "id": 9,
+        "name": "Nike Air Max 2090 EOI",
+        "category": "Causal_Shoes",
+        "category_id": 1,
+        "rating": 4.5,
+        "price": 11595,
+        "image": "https://i.ibb.co/Zg6DBBD/air-max-2090-eoi-shoe-MG95b-X.jpg",
+        "size": 5,
+        "color": "Summit White/Black/Bright Crimson/Racer Blue",
+        "brand": "Nike_Air_Max"
+    },
+
+    {
+        "id": 10,
+        "name": "Nike Air Force 1 React LV8",
+        "category": "Causal_Shoes",
+        "category_id": 1,
+        "rating": 4.5,
+        "price": 11495,
+        "image": "https://i.ibb.co/F87w5HP/air-force-1-react-lv8-shoe-5-ZWv-WB.jpg",
+        "size": 7,
+        "color": "Black/Barely Green/Black",
+        "brand": "Nike"
+    },
+
+    {
+        "id": 11,
+        "name": "San Frissco Men Black Semiformal Slip-Ons",
+        "category": "Formal_Shoes",
+        "category_id": 2,
+        "rating": 4.5,
+        "price": 1798,
+        "image": "https://i.ibb.co/0DqLY6b/San-Frissco-Men-Formal-Shoes.webp",
+        "size": 8,
+        "color": "black",
+        "brand": "San Frissco"
+    },
+
+    {
+        "id": 12,
+        "name": "Red Tape Men Black Solid Mid-Top Leather Formal Boots",
+        "category": "Formal_Shoes",
+        "category_id": 2,
+        "rating": 5,
+        "price": ,
+        "image": "https://i.ibb.co/T4SKcX1/Red-Tape-Men-Black-Solid-Mid.webp",
+        "size": 6,
+        "color": "black",
+        "brand": "Red_Tape"
+    },
+
+    {
+        "id": 13,
+        "name": "Rapawalk Tan & Coffee Brown Handcrafted Wide Width Leather Monks",
+        "category": "Formal_Shoes",
+        "category_id": 2,
+        "rating": 5,
+        "price": 4956,
+        "image": "https://i.ibb.co/FqjBQHz/RAPAWALK-Men-Brown-Handcrafted-Colourblocked-Leather-Formal-Monks.webp",
+        "size": 7,
+        "color": "coffe_brown",
+        "brand": "Rapawalk_Tan"
+    },
+
+    {
+        "id": 14,
+        "name": "Red Tape Men Black Formal Leather Oxfords",
+        "category": "Formal_Shoes",
+        "category_id": 2,
+        "rating": 4.5,
+        "price": 1799,
+        "image": "https://i.ibb.co/Zxh8sfN/red-tape-solid-leather-oxfords.jpg",
+        "size": 8,
+        "color": "black",
+        "brand": "Red_Tape"
+    },
+
+    {
+        "id": 15,
+        "name": "San Frissco Men Black & Burgundy Colourblocked Semiformal Brogues",
+        "category": "Formal_Shoes",
+        "category_id": 2,
+        "rating": 4.5,
+        "price": 1598,
+        "image": "https://i.ibb.co/xFqSyB5/San-Frissco-Men-Formal-Shoes-2.webp",
+        "size": 5,
+        "color": "black",
+        "brand": "San Frissco"
+    },
+
+    {
+        "id": 16,
+        "name": "Derby shoes",
+        "category": "Formal_Shoes",
+        "category_id": 2,
+        "rating": 4.5,
+        "price": 2999,
+        "image": "https://i.ibb.co/nk3M3qK/derby.jpg",
+        "size": 9,
+        "color": "brown",
+        "brand": "H&M"
+    },
+
+    {
+        "id": 17,
+        "name": "Slip-on loafers",
+        "category": "Formal_Shoes",
+        "category_id": 2,
+        "rating": 4.5,
+        "price": 2299,
+        "image": "https://i.ibb.co/8Yy0z9P/SLIP-ON.jpg",
+        "size": 6,
+        "color": "Black/Flowers",
+        "brand": "H&M"
+    },
+
+    {
+        "id": 18,
+        "name": "Tasselled leather loafers",
+        "category": "Formal_Shoes",
+        "category_id": 2,
+        "rating": 4.5,
+        "price": 4498,
+        "image": "https://i.ibb.co/xCqc6Zj/tasselled-loafers.jpg",
+        "size": 10,
+        "color": "beige",
+        "brand": "H&M"
+    },
+
+    {
+        "id": 19,
+        "name": "Derby shoes",
+        "category": "Formal_Shoes",
+        "category_id": 2,
+        "rating": 4.5,
+        "price": 2699,
+        "image": "https://i.ibb.co/Zx65j6T/derby-black.jpg",
+        "size": 8,
+        "color": "black",
+        "brand": "H&M"
+    },
+
+    {
+        "id": 20,
+        "name": "Chelsea boots",
+        "category": "Formal_Shoes",
+        "category_id": 2,
+        "rating": 4.5,
+        "price": 2999,
+        "image": "https://i.ibb.co/9NRpFK2/chelsea.jpg",
+        "size": 7,
+        "color": "black",
+        "brand": "H&M"
+    },
+
+    {
+        "id": 21,
+        "name": "Nike Mercurial Superfly 8 Elite CR7 FG",
+        "category": "Sports_Shoes",
+        "category_id": 3,
+        "rating": 4.5,
+        "price": 23995,
+        "image": "https://i.ibb.co/JRhj7y4/mercurial-superfly-8-elite-cr7-fg-football-boot.jpg",
+        "size": 8,
+        "color": "Chile Red",
+        "brand": "Nike"
+    },
+
+    {
+        "id": 22,
+        "name": "Nike Mercurial Vapor 14 Elite FG",
+        "category": "Sports_Shoes",
+        "category_id": 3,
+        "rating": 4.5,
+        "price": 21995,
+        "image": "https://i.ibb.co/jR2cQZT/mercurial-vapor-14-elite-fg-football-boot.jpg",
+        "size": 10,
+        "color": "White",
+        "brand": "Nike"
+    },
+
+    {
+        "id": 23,
+        "name": "Zoom Freak 2",
+        "category": "Sports_Shoes",
+        "category_id": 3,
+        "rating": 4.5,
+        "price": 8237,
+        "image": "https://i.ibb.co/6wD7f82/zoom-freak-2-basketball-shoe.jpg",
+        "size": 8,
+        "color": "Bright Mango/Volt/Grand",
+        "brand": "Nike"
+    },
+
+    {
+        "id": 24,
+        "name": "LeBron 18 'Best 10–18'",
+        "category": "Sports_Shoes",
+        "category_id": 3,
+        "rating": 4.5,
+        "price": 20675,
+        "image": "https://i.ibb.co/3NDd77X/lebron-18-best-10-18-basketball-shoe.jpg",
+        "size": 8,
+        "color": "Psychic Purple/Multi-Colour/Black",
+        "brand": "Nike"
+    },
+
+    {
+        "id": 25,
+        "name": "Air Jordan XXXV",
+        "category": "Sports_Shoes",
+        "category_id": 3,
+        "rating": 4.5,
+        "price": 12477,
+        "image": "https://i.ibb.co/5T06SY3/air-jordan-xxxv-basketball-shoe.jpg",
+        "size": 7,
+        "color": "Blue Fury/Electric Green/University Red/Metallic Silver",
+        "brand": "Nike"
+    },
+
+    {
+        "id": 26,
+        "name": "Nike Cosmic Unity (Team)",
+        "category": "Sports_Shoes",
+        "category_id": 3,
+        "rating": 4.5,
+        "price": 13495,
+        "image": "https://i.ibb.co/02pz6Xy/cosmic-unity-basketball-shoe.jpg",
+        "size": 9,
+        "color": "Game Royal/Copa/Lime Glow/Black",
+        "brand": "Nike"
+    },
+
+    {
+        "id": 27,
+        "name": "Nike Romaleos 4",
+        "category": "Sports_Shoes",
+        "category_id": 3,
+        "rating": 4.5,
+        "price": 16995,
+        "image": "https://i.ibb.co/BwG3GqC/romaleos-4-training-shoe.jpg",
+        "size": 6,
+        "color": "black",
+        "brand": "Nike"
+    },
+
+    {
+        "id": 28,
+        "name": "NikeCourt Air Zoom GP Turbo",
+        "category": "Sports_Shoes",
+        "category_id": 3,
+        "rating": 4.5,
+        "price": 12495,
+        "image": "https://i.ibb.co/59gQBHk/nikecourt-air-zoom-gp-turbo-hard-court-tennis-shoe.jpg",
+        "size": 11,
+        "color": "Dark Teal Green/Black/Green Glow/White",
+        "brand": "Nike"
+    },
+
+    {
+        "id": 29,
+        "name": "Nike Air Zoom Alphafly NEXT% Flyknit",
+        "category": "Sports_Shoes",
+        "category_id": 3,
+        "rating": 4.5,
+        "price": 22795,
+        "image": "https://i.ibb.co/JQPGPmy/air-zoom-alphafly-next-flyknit-road-racing-shoe.jpg",
+        "size": 7,
+        "color": "White/Black/Black/Black",
+        "brand": "Nike"
+    },
+
+    {
+        "id": 30,
+        "name": "Nike SB Zoom Blazer Mid Premium",
+        "category": "Sports_Shoes",
+        "category_id": 3,
+        "rating": 4.5,
+        "price": 10295,
+        "image": "https://i.ibb.co/rG0YTb0/sb-zoom-blazer-mid-skate-shoe.jpg",
+        "size": 8,
+        "color": "Grey Fog/White/Black",
+        "brand": "Nike"
+    },
+
+    {
+        "id": 31,
+        "name": "1460 BEX PATENT LEATHER LACE UP BOOTS",
+        "category": "Boots",
+        "category_id": 4,
+        "rating": 4.5,
+        "price": 12309,
+        "image": "https://i.ibb.co/LYrn4Cb/1460-BEX-BOOTS.jpg",
+        "size": 9,
+        "color": "BLACK PATENT LAMPER",
+        "brand": "Doc_Martens"
+    },
+
+    {
+        "id": 32,
+        "name": "JADON SMOOTH LEATHER PLATFORM BOOTS",
+        "category": "Boots",
+        "category_id": 4,
+        "rating": 4.5,
+        "price": 14447,
+        "image": "https://i.ibb.co/7nvNtxN/JADON-SMITH-BOOTS.jpg",
+        "size": 8,
+        "color": "WHITE",
+        "brand": "Doc_Martens"
+    },
+
+    {
+        "id": 33,
+        "name": "101 SUEDE ANKLE BOOTS",
+        "category": "Boots",
+        "category_id": 4,
+        "rating": 4.5,
+        "price": 14098,
+        "image": "https://i.ibb.co/bghGrZy/101-SUEDE-BOOTS.jpg",
+        "size": 10,
+        "color": "GREEN DESERT OASIS SUEDE ",
+        "brand": "Doc_Martens"
+    },
+
+    {
+        "id": 34,
+        "name": "VEGAN JADON II PLATFORM BOOTS",
+        "category": "Boots",
+        "category_id": 4,
+        "rating": 4.5,
+        "price": 14449,
+        "image": "https://i.ibb.co/W0Y7zjD/VEGAN-JADON-BOOTS.jpg",
+        "size": 8,
+        "color": "CHERRY RED OXFORD RUB OFF",
+        "brand": "Doc_Martens"
+    },
+
+    {
+        "id": 35,
+        "name": "JADON HI SMOOTH LEATHER PLATFORM BOOTS",
+        "category": "Boots",
+        "category_id": 4,
+        "rating": 4.5,
+        "price": 15768,
+        "image": "https://i.ibb.co/CsK7qnR/JADON-HIGH-BOOTS.jpg",
+        "size": 8,
+        "color": "BLACK POLISHED SMOOTH",
+        "brand": "Doc_Martens"
+    },
+
+    {
+        "id": 36,
+        "name": "1460 BASQUIAT LEATHER LACE UP BOOTS​",
+        "category": "Boots",
+        "category_id": 4,
+        "rating": 4.5,
+        "price": 12854,
+        "image": "https://i.ibb.co/bWGMhsd/1460-BASQUIAT-BOOTS.jpg",
+        "size": 6,
+        "color": " BLACK SMOOTH LEATHER",
+        "brand": "Doc_Martens"
+    },
+
+    {
+        "id": 37,
+        "name": "VEGAN 2976 FELIX CHELSEA BOOTS",
+        "category": "Boots",
+        "category_id": 4,
+        "rating": 4.5,
+        "price": 12039,
+        "image": "https://i.ibb.co/ZXhYqb3/VEGAN-FELIX-BOOTS.jpg",
+        "size": 8,
+        "color": "BLACK FELIX RUB OFF",
+        "brand": "Doc_Martens"
+    },
+
+    {
+        "id": 38,
+        "name": "1460 PASCAL ATLAS LEATHER LACE UP BOOTS",
+        "category": "Boots",
+        "category_id": 4,
+        "rating": 4.5,
+        "price": 12039,
+        "image": "https://i.ibb.co/ZNty5K4/1460-pascal-BOOTS.jpg",
+        "size": 9,
+        "color": "OXBLOOD ATLAS",
+        "brand": "Doc_Martens"
+    },
+
+    {
+        "id": 39,
+        "name": "2976 CRAZY HORSE LEATHER CHELSEA BOOTS",
+        "category": "Boots",
+        "category_id": 4,
+        "rating": 4.5,
+        "price": 12345,
+        "image": "https://i.ibb.co/xghNQ4N/2976-HORSE-BOOTS.jpg",
+        "size": 8,
+        "color": "BROWN CRAZY HORSE LEATHER",
+        "brand": "Doc_Martens"
+    },
+
+    {
+        "id": 40,
+        "name": "101 SUEDE ANKLE BOOTS",
+        "category": "Boots",
+        "category_id": 4,
+        "rating": 4.5,
+        "price": 18460,
+        "image": "https://i.ibb.co/TbFrD7L/101-SUEDE-BLACK-BOOTS.jpg",
+        "size": 8,
+        "color": "BLACK ",
+        "brand": "Doc_Martens"
+    },
+
+    {
+        "id": 41,
+        "name": "Printed pool shoes",
+        "category": "Flats",
+        "category_id": 5,
+        "rating": 4.5,
+        "price": 1299,
+        "image": "https://i.ibb.co/wc2M2T7/POOL-SHOES.jpg",
+        "size": 12,
+        "color": "Black",
+        "brand": "H&M"
+    },
+
+    {
+        "id": 42,
+        "name": "Leather mules",
+        "category": "Flats",
+        "category_id": 5,
+        "rating": 4.5,
+        "price": 2299,
+        "image": "https://i.ibb.co/9prj11c/leather-mules.jpg",
+        "size": 8,
+        "color": "Black/Brown",
+        "brand": "H&M"
+    },
+
+    {
+        "id": 43,
+        "name": "Flip-flops",
+        "category": "Flats",
+        "category_id": 5,
+        "rating": 4.5,
+        "price": 1299,
+        "image": "https://i.ibb.co/FYfXLSN/flip-flops.jpg",
+        "size": 4,
+        "color": "Dark Brown",
+        "brand": "H&M"
+    },
+
+    {
+        "id": 44,
+        "name": "Leather Slides",
+        "category": "Flats",
+        "category_id": 5,
+        "rating": 5,
+        "price": 2299,
+        "image": "https://i.ibb.co/4dgQ07J/leather-slides.jpg",
+        "size": 12,
+        "color": "Black",
+        "brand": "H&M"
+    },
+
+    {
+        "id": 45,
+        "name": "Sandals",
+        "category": "Flats",
+        "category_id": 5,
+        "rating": 4.5,
+        "price": 1499,
+        "image": "https://i.ibb.co/k543y5S/sandals.jpg",
+        "size": 8,
+        "color": "Black",
+        "brand": "H&M"
+    },
+
+    {
+        "id": 46,
+        "name": "Leather slides",
+        "category": "Flats",
+        "category_id": 5,
+        "rating": 4.5,
+        "price": 2999,
+        "image": "https://i.ibb.co/TYkBPgx/leather-sliders.jpg",
+        "size": 7,
+        "color": "Black",
+        "brand": "H&M"
+    },
+
+    {
+        "id": 47,
+        "name": "Suede mules",
+        "category": "Flats",
+        "category_id": 5,
+        "rating": 4.5,
+        "price": 2345,
+        "image": "https://i.ibb.co/C0WcB2n/suede-mules.jpg",
+        "size": 9,
+        "color": "Beige",
+        "brand": "H&M"
+    },
+
+    {
+        "id": 48,
+        "name": "Printed pool shoes",
+        "category": "Flats",
+        "category_id": 5,
+        "rating": 4.5,
+        "price": 1239,
+        "image": "https://i.ibb.co/y4LWP9Z/pool-shoes-2.jpg",
+        "size": 5,
+        "color": "Mutli-colored",
+        "brand": "H&M"
+    },
+
+    {
+        "id": 49,
+        "name": "Leather mules",
+        "category": "Flats",
+        "category_id": 5,
+        "rating": 4.5,
+        "price": 2999,
+        "image": "https://i.ibb.co/2hHdtYx/leather-mules-2.jpg",
+        "size": 9,
+        "color": "brown",
+        "brand": "H&M"
+    },
+
+    {
+        "id": 50,
+        "name": "Leather slides",
+        "category": "Flats",
+        "category_id": 5,
+        "rating": 4.5,
+        "price": 1899,
+        "image": "https://i.ibb.co/Lr7Gtbq/leather-slides-3.jpg",
+        "size": 8,
+        "color": "brown",
+        "brand": "H&M"
+    }
+]
